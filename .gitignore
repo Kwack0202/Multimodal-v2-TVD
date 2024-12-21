@@ -7,8 +7,9 @@ candle_img/*
 csv/*
 plot/*
 saved_model/*
-code_backup/*
+backup_file/*
 *saved_model.zip
+*code.txt
 
 
 # C extensions
